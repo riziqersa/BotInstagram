@@ -209,9 +209,9 @@ console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
   [?] {bold.green FLMauto | Using Media/Link Target}
-  ——————————————————  [THANKS TO AEXINAV]  ————————————————————
-  [✓] CODER BY AEXINAV (https://fb.me/aexinav)
-  [✓] FIXING & TESTING BY AEXINAV
+  ——————————————————  [THANKS TO ALFATON]  ————————————————————
+  [✓] CODER BY ALFATON (https://fb.me/alfaton)
+  [✓] FIXING & TESTING BY ALFATON
   [✓] TOOLS AMAN 1000000% NO LOGGER
   [✓] GROW UP YOUR INSTAGRAM FOLLOWERS NOW!
   —————————————————————————————————————————————————————
@@ -219,7 +219,7 @@ console.log(chalk`
   1. Input Target/delay Manual (ITTYW)
   —————————————————————————————————————————————————————}
       `);
-//aexinav
+//alfaton
 inquirer.prompt(User)
 .then(answers => {
 	var text = answers.text.split('|');
