@@ -169,9 +169,9 @@ console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
   [?] {bold.green FAH | Using Hastag Media Target!}
-  ——————————————————  [THANKS TO AEXINAV]  ————————————————————
-  [✓] CODER BY ME (https://fb.me/aexinav)
-  [✓] FIXING & TESTING BY AEXINAV
+  ——————————————————  [THANKS TO ALFATON]  ————————————————————
+  [✓] CODER BY ME (https://fb.me/alfaton)
+  [✓] FIXING & TESTING BY ALFATON
   [✓] TOOLS AMAN 1000000% NO LOGGER
   [✓] GROW UP YOUR INSTAGRAM FOLLOWERS NOW!
   —————————————————————————————————————————————————————
