@@ -135,13 +135,13 @@ console.log(chalk`
   [?] {bold.green Check Username Account *AUTO!}
   [?] {bold.green Save Result to Log.txt}
   ——————————————————  [THANKS TO ALFATON]  ————————————————————
-  [✓] CODER BY AEXINAV (https://fb.me/alfaton)
+  [✓] CODER BY ALFATON (https://fb.me/alfaton)
   [✓] FIXING & TESTING BY ALFATON
   [✓] TOOLS AMAN 1000000% NO LOGGER
   [✓] GROW UP YOUR INSTAGRAM FOLLOWERS NOW!
   —————————————————————————————————————————————————————}
       `);
-//Allfaton
+//alfaton
 inquirer.prompt(User)
 .then(answers => {
   Excute({
