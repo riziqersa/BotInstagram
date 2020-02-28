@@ -218,7 +218,7 @@ console.log(chalk`
   [?] {bold.green Gunakan komen.txt untk komen!}
   
   ——————————————————  [THANKS TO ALFATON]  ————————————————————
-  [✓] CODER BY AEXINAV (https://fb.me/alfaton)
+  [✓] CODER BY ALFATON (https://fb.me/alfaton)
   [✓] FIXING & TESTING BY ALFATON
   [✓] TOOLS AMAN 1000000% NO LOGGER
   [✓] GROW UP YOUR INSTAGRAM FOLLOWERS NOW!
