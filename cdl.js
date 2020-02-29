@@ -49,6 +49,16 @@ const User = [
 },
 {
   type:'input',
+  name:'comment',
+  message:'[>] Insert Text Comment (use [|] if more than 1:',
+  validate: function(value){
+    value = value.match(/[0-9]);
+    if (value) return true;
+    return 'Delay is number';
+  }
+},
+{
+  type:'input',
   name:'sleep',
   message:'[>] Insert Sleep (MiliSeconds):',
   validate: function(value){
