@@ -52,9 +52,8 @@ const User = [
   name:'comment',
   message:'[>] Insert Text Comment (use [|] if more than 1:',
   validate: function(value){
-    value = value.match(/[0-9]);
-    if (value) return true;
-    return 'Delay is number';
+    if(!value) return 'Can\'t Empty';
+    return true;
   }
 },
 {
