@@ -19,4 +19,6 @@ $ npm install audit fix --force
 $ unzip node modules.zip (tunggu proses hingga selesai
   lalu klik [A] ENTER)
 
+$ npm instagram-private-api
+
 $ node index
