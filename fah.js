@@ -56,6 +56,15 @@ const question = [
 },
 {
   type:'input',
+  name:'comment',
+  message:'[>] Insert Text Comment (use [|] if more than 1:',
+  validate: function(value){
+    if(!value) return 'Can\'t Empty';
+    return true;
+  }
+},
+{
+  type:'input',
   name:'sleep',
   message:'[>] Insert Sleep (In MiliSeconds):',
   validate: function(value){
